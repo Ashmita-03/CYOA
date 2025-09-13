@@ -1,4 +1,9 @@
 # Game Jam Starter Code
+
+### How it connects with Game Jam prompt:
+       I feel that recycling is predominant step to protect our environment from plastic pollution, And I hope everybody follows recycling activities in their day to day life. I see hope in the form of protecting the environment.
+
+       
 This is a place for you to start building your Game Jam Project!
 
 ### Project Requirements
