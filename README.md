@@ -1,54 +1,46 @@
-# Game Jam Starter Code
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+---
 
-### How it connects with Game Jam prompt:
-       I feel that recycling is predominant step to protect our environment from plastic pollution, And I hope everybody follows recycling activities in their day to day life. I see hope in the form of protecting the environment.
+# 🌍 The Plastic Path: Choose to Reuse!
 
-       
-This is a place for you to start building your Game Jam Project!
+## 🎮 Overview
 
-### Project Requirements
-Your project should:
-- Include a clear description of the goal and rules. 
-- Provide evidence for how it responds to the game jam prompt.
-- Incorporate one UX design principle.
-- Be an MVP version of the final vision for the game. 
-- Properly cite any assets or a game you modded.
-- Utilize code comments to make your code readable for others who might want to mod it. 
-- Be playtested to gather feedback.
-- Be iterated on based on the feedback you receive.
+**The Plastic Path: Choose to Reuse!** is a choice-driven, interactive game built with **p5.js** and **p5.play** that tests players on their daily decisions regarding plastic usage. The game was developed for a **Game Jam** with the theme *\"What Hope Means to Me."*
 
-
-### Extensions
-You can extend your project further by:
-- Add a new feature
-- Refactor your code
-- Port to Github pages
-
-###  Attributions
-*If you used any code, ideas, images, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
-- Add here if applicable
+To me, hope is keeping the world around us alive by making little but meaningful choices—like recycling, refusing single-use plastics, and repurposing products whenever possible. This game teaches us that *everyday decisions can add up to a greener, brighter tomorrow.* ????
 
 ---
 
-## File Overview
+## 🕹️ Gameplay
 
-### ← script.js
+* The game begins on a **welcome screen** with an *Enter* button.
+* Players go through a series of **scenarios** where they must choose between eco-friendly habits or careless plastic habits.
+* Each choice leads to a new **story screen** with consequences—good (saving the Earth) or ill (plastic pollution).
+* A number of options and conclusions disclose that *our choices really make a difference.*
+### Example Situations:
 
-This is where we will add the JavaScript code for our game.
+* **School Cafeteria:** Bring in your own container or use a plastic tray?
+* **Shopping for Groceries:** Bring in a cloth bag or use a plastic bag?
+* **Outside:** Recycle bottles, clean up the beach, or litter with plastic?
 
-### ← assets
+---
 
-Drag in assets, like images, to add them to your project. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg` or `assets/example.png`.
+## 🌟 Features
 
-### ← index.html
+* Simple **interactive button navigation**
+* **Branching decisions** with multiple story repercussions
+* **Positive feedback loop** showing the impact of positive environmental decisions
+* A motivational message prompting players to reduce plastic usage in real life
 
-The HTML file contains HTML code that sets up a webpage for our game. We also add libraries in this file using HTML tags.
+---
 
-### ← README.md
+## 🚀 Future Improvements
 
-That's this file. This is the place to tell people more about what your game does and how you built it. 
+* Add animations (plastic drifting, recycling bin effects, etc.)
+* Add a scoring system for tracking eco-friendly vs. harmful decisions
+* Add sound effects for immersion
+* Mobile-friendly design
 
-### ← style.css
-
-The CSS file adds styling rules to your content like changing colors and fonts. We will not use this file for our game and instead update the style of our game in the script.js file.  
+## 📸 Preview
+<img width="747" height="495" alt="image" src="https://github.com/user-attachments/assets/94484380-3bf9-4c8e-94a9-2c4473d11eff" />
 
