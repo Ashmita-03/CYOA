@@ -1,46 +1,19 @@
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
----
+# The Plastic Path
+### Overview
+This game is a choice based game with Interactive storyline in the theme plastic recycling. As you make your choices through the story, it changes the story line according to the choices made: an wrong choice leads to a bad stryline, and a good choices will take you to a good storyline. The ultimate goal of this website is to reinforce plastic recycling in peoples mind and protect the environment. I made this game as a project to answer the prompt "What hope means to me" for girls who code summercamp.
 
-# 🌍 The Plastic Path: Choose to Reuse!
+### Techonolgie usead
+-> p5.play
+-> p5.js
 
-## 🎮 Overview
+### Features
+--> Engaging storyline
+--> Realistice choices being provided
+--> Themed around Plastic Recyling
+--> The background coordinates with storyline when it's bad or good.
 
-**The Plastic Path: Choose to Reuse!** is a choice-driven, interactive game built with **p5.js** and **p5.play** that tests players on their daily decisions regarding plastic usage. The game was developed for a **Game Jam** with the theme *\"What Hope Means to Me."*
+### Struggles and Learnings
+I struggled to learn javascript intially, and to undersand the loops used in the code to make the game. I learnt to code in javascript really well by the end of the project. 
 
-To me, hope is keeping the world around us alive by making little but meaningful choices—like recycling, refusing single-use plastics, and repurposing products whenever possible. This game teaches us that *everyday decisions can add up to a greener, brighter tomorrow.* ????
-
----
-
-## 🕹️ Gameplay
-
-* The game begins on a **welcome screen** with an *Enter* button.
-* Players go through a series of **scenarios** where they must choose between eco-friendly habits or careless plastic habits.
-* Each choice leads to a new **story screen** with consequences—good (saving the Earth) or ill (plastic pollution).
-* A number of options and conclusions disclose that *our choices really make a difference.*
-### Example Situations:
-
-* **School Cafeteria:** Bring in your own container or use a plastic tray?
-* **Shopping for Groceries:** Bring in a cloth bag or use a plastic bag?
-* **Outside:** Recycle bottles, clean up the beach, or litter with plastic?
-
----
-
-## 🌟 Features
-
-* Simple **interactive button navigation**
-* **Branching decisions** with multiple story repercussions
-* **Positive feedback loop** showing the impact of positive environmental decisions
-* A motivational message prompting players to reduce plastic usage in real life
-
----
-
-## 🚀 Future Improvements
-
-* Add animations (plastic drifting, recycling bin effects, etc.)
-* Add a scoring system for tracking eco-friendly vs. harmful decisions
-* Add sound effects for immersion
-* Mobile-friendly design
-
-## 📸 Preview
 <img width="747" height="495" alt="image" src="https://github.com/user-attachments/assets/94484380-3bf9-4c8e-94a9-2c4473d11eff" />
-
